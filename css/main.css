@@ -1,0 +1,47 @@
+.welcome-heading {
+    color: coral;
+    font-size: 50px;
+}
+
+.personal-info {
+
+    background-color: lightgrey;
+    height: 200px;
+    width: 50%;
+    font-size: 30px;
+}
+
+.name-info {
+    color: blue;
+}
+
+.place-name {
+    font-size: 30px;
+}
+
+li {
+    font-size: 30px;
+
+}
+
+.blog {
+    background-color: lightgreen;
+    font-size: 25px;
+    border: 20px solid yellow;
+    border-radius: 10px;
+    margin: 50px auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.authore-name {
+    color: blue;
+}
+
+.blog h2 {
+    text-align: center;
+}
+
+.blog p {
+    text-align: justify;
+}
